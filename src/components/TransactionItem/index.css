@@ -1,0 +1,22 @@
+.transaction-row-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #7e858e;
+}
+.transaction-title {
+  color: #1e293b;
+  font-size: medium;
+  font-weight: bold;
+  width: 25%;
+  text-align: center;
+  overflow: auto;
+}
+.delete-button {
+  height: 50%;
+  border: 0px;
+  background-color: transparent;
+}
+.delete-icon {
+  height: 100%;
+}
