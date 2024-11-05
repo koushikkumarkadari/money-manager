@@ -61,7 +61,7 @@ The app must have the following functionalities
   - After updating, the values in the `titleInput`,`amountInput` and `optionId` will be updated to their initial values
 
 - When the delete button in the transaction history is clicked,
-  - The respective transaction should be deleted from the transaction history list
+  - The respective  transaction should be deleted from the transaction history list
   - `totalBalance`, `totalIncome` and `totalExpenses` should be updated accordingly
 
 </details>
